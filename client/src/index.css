@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+/* user defined css */
+* {
+    font-family: 'Inter', sans-serif;
+}
+
+button:hover {
+    cursor: pointer;
+}
